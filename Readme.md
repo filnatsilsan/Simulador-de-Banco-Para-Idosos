@@ -15,7 +15,7 @@ O objetivo principal é oferecer um **ambiente seguro e de risco zero** para que
 ## 🛠️ Tecnologias Utilizadas
 
 * **HTML5:** Estrutura fundamental da tela.
-* **CSS3:** Estilização e design responsivo (para simular acesso em dispositivos móveis).
+* **CSS3:** Estilização e design responsivo.
 
 
 **Desenvolvido por:** Filipe Nathan.
