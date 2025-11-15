@@ -9,7 +9,6 @@ O objetivo principal é oferecer um **ambiente seguro e de risco zero** para que
 ## ✨ Funcionalidades Principais
 
 * **Interface Amigável:** Design simples e focado na usabilidade para o público sênior.
-* **Simulação de Login:** Permite a entrada de dados (usuário/senha) apenas para fins de treino.
 * **Navegação Mockup:** Exibe telas internas básicas (como saldo, extrato) simuladas, sem funcionalidades ativas.
 
 ## 🛠️ Tecnologias Utilizadas
